@@ -6,3 +6,9 @@ Template:       hello-elementor
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+ header a{
+    color:#3341cc
+}
+main a{
+    color:#4d33cc
+}
